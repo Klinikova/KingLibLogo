@@ -1,0 +1,32 @@
+head {
+    display: none;
+}
+
+body {
+    background-color: #E6E6D3;
+    font-family: Ariel, Helvetica, sans-serif;
+    display: block;
+    margin: 8px;
+}
+
+span {
+    color: red;
+    display: none;
+}
+.errormsg{
+    display: inline;
+}
+#patron {
+    background-color: lightblue;
+    width: 780px;
+    padding: 10px;
+}
+
+div {
+    display: block;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
